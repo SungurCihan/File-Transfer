@@ -1,0 +1,12 @@
+syntax = "proto3";
+ 
+option csharp_namespace = "Shared";
+ 
+message StringMessage {
+     int32 integer = 1;
+     string message = 2;
+}
+
+service Svc {
+	rpc SayHello (StringMessage) returns (StringMessage);
+}

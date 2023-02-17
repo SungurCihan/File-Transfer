@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JwmnvK9xkOK3dM+fVyCW2n14q/4CodCp965fRAJsxSo=",
+  "Source": "grpcServer",
+  "BasePath": "_content/grpcServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "grpcServer\\wwwroot",
+      "Source": "grpcServer",
+      "ContentRoot": "C:\\gRPC File Transfer\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\gRPC File Transfer\\grpcServer\\wwwroot\\files\\BF4A0012.CR2",
+      "SourceId": "grpcServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\gRPC File Transfer\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "RelativePath": "files/BF4A0012.CR2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\BF4A0012.CR2"
+    }
+  ]
+}
